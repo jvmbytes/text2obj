@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Tx>
+	<TxHead>
+		<HWSID>BK_GOLD</HWSID>
+		<HSTANO>2056600</HSTANO>
+		<HTLID>2005001</HTLID>
+		<HTXTID>SDF4</HTXTID>
+	</TxHead>
+	<TxBody>
+		<MING_ZI>kevin</MING_ZI>
+		<TxRepeat>
+			<COURSE>JAVA</COURSE>
+			<COURSE>JSP</COURSE>
+			<COURSE>ORACLE</COURSE>
+		</TxRepeat>
+	</TxBody>
+</Tx>
